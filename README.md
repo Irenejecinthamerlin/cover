@@ -121,11 +121,11 @@ Publish the website in the given URL.
             <h3>FIRST EDITION</h3>
         </div>
         <div class="author">
-            <h3>ASHIKA JUBI R</h3>
+            <h3>IRENE JECINTHA MERLIN R</h3>
         </div>
         <hr class="line2" width="170px">
         <div class="image">
-            <img src="Ashika.jpg">
+            <img src="Merlin.jpg">
         </div>
     </div>
 </body>
